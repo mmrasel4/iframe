@@ -1,0 +1,43 @@
+.box{
+	width: 100px;
+	height: 100px;
+}
+
+.red{
+	
+	background-color: red;
+}
+.green{
+
+	background-color: green;
+	margin: 100px 50px;
+}
+
+
+.box2{
+	width: 300px;
+	height: 300px;
+}
+.yellow{
+	background-color: yellow;
+
+}
+.gray{
+	background-color: gray;
+	padding: 50px;
+
+}
+h1{
+	display: inline;
+}
+h2{
+	display: inline;
+}
+p{
+	display: inline;
+}
+
+.frame{
+	width: 560px;
+	height: 315px;
+}
